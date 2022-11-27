@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3 {
+    margin: 15px;
+}
+
+.mainContainer {
+    width:  1016px;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+    background: rgb(255, 86, 86);
+    display: block;
+    padding: 20px;
+}
+
+nav {
+    display: block;
+    width: 100%;
+    padding:10px 20px;
+    background-color:orangered;
+}
+
+section {
+    width: 700px;
+    height: 100%;
+    background-color: rgb(0, 255, 115);
+    display: inline-block;
+    float: left;
+}
+
+
+.Contentbox {
+    width: 650px;
+    padding: 30px 10px;
+    background-color: aqua;
+    margin: 10px  auto;
+}
+
+aside {
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: yellow;
+    width: 316px;
+    height: 632px;
+} 
+
+
+footer {
+    background: rgb(83, 64, 100);
+    padding: 15px;
+    display: block;
+    width: 100%;
+    float: left;
+}
